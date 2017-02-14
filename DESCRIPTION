@@ -1,0 +1,11 @@
+Package: EnergyOnlineCPM
+Type: Package
+Title: EnergyOnlineCPM Package
+Version: 1.0
+Date: 2017-02-14
+Author: Yafei Xu
+Maintainer: Yafei Xu <yafei.xu@hu-berlin.de>
+Depends: parallel, energy, R (>= 3.3.2)
+Description: This package is used for Phase II multiple change points detection for high diemensional time series.
+License: GPL (>= 2)
+Packaged: 2017-02-14 18:23:20 UTC; up2mike
