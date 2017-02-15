@@ -39,7 +39,6 @@ Yafei Xu <yafei.xu@hu-berlin.de>
 
 
 \examples{
-library(NPMVCP)
 library(MASS)
 
 # simulate 300 length time series
