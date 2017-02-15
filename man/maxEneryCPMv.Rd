@@ -57,7 +57,7 @@ sim3=(mvrnorm(n = simNr, Mean3, Sigma3))
 # construct a data set of length equal to 90.
 # first 20 points are from standard Gaussian. 
 # second 30 points from a Gaussian with a mean shift with 555.
-# last 30 points are from standard Gaussian.  
+# last 40 points are from standard Gaussian.  
 data1=sim6=rbind(sim2[1:20,],(sim3+555)[1:30,],sim2[1:40,])
 
 # set warm-up number as 20, permutation 200 times, significant level 0.005
