@@ -1,5 +1,5 @@
 
-maxEneryCPMv=function(data1,wNr,permNr,alpha){
+maxEnergyCPMv=function(data1,wNr,permNr,alpha){
 tryCatch({
 
   is.installed <- function(mypkg){
