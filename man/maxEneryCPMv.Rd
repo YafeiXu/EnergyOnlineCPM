@@ -64,7 +64,7 @@ data1=sim6=rbind(sim2[1:20,],(sim3+555)[1:30,],sim2[1:40,])
 wNr=20
 permNr=200
 alpha=1/200
-maxEneryCPMv(data1,wNr,permNr,alpha)
+maxEnergyCPMv(data1,wNr,permNr,alpha)
 }
 \keyword{ Phase II Statistical Process Control}
 \keyword{ Change Point Model }% __ONLY ONE__ keyword per line
