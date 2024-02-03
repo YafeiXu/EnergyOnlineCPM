@@ -18,7 +18,9 @@ install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
 ~~~
 ### 2.2 Example and Usage
-Please refer to Package Reference Manual: https://drive.google.com/file/d/15qUGOFjvkrZaC1QA_h3j3lcuepafLxyF/view?usp=sharing and https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
+Please refer to Package Reference Manual: 
+- https://drive.google.com/file/d/15qUGOFjvkrZaC1QA_h3j3lcuepafLxyF/view?usp=sharing
+- https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
 ~~~
 library(MASS)
 # simulate 300 length time series
