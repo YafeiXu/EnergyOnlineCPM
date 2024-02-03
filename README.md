@@ -58,7 +58,7 @@ maxEnergyCPMv(data1,wNr,permNr,alpha)
 - PDF@googledrive: https://drive.google.com/file/d/1ahkLP0672MYnyaqiNKP9glw21a4axvGH/view?usp=sharing
 
 ### 3.2 Reference Manual: An R Package 'EnergyOnlineCPM'
-- PDF@googledrive https://drive.google.com/file/d/15qUGOFjvkrZaC1QA_h3j3lcuepafLxyF/view?usp=sharing
+- PDF@googledrive: https://drive.google.com/file/d/15qUGOFjvkrZaC1QA_h3j3lcuepafLxyF/view?usp=sharing
   
 ### 3.3 Introduction of Package 'EnergyOnlineCPM' in CRAN
 https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
