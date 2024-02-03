@@ -53,7 +53,7 @@ maxEnergyCPMv(data1,wNr,permNr,alpha)
 ~~~
 
 ## 3. Papers and Package
-### 3.1 A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model
+### 3.1 Paper: A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model
 - DOI: https://doi.org/10.35566/isdsa2019c2
 - PDF@googledrive: https://drive.google.com/file/d/1ahkLP0672MYnyaqiNKP9glw21a4axvGH/view?usp=sharing
 
