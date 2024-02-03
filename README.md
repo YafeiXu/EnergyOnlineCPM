@@ -8,26 +8,26 @@ Secondly, this control chart can monitor mean and variance simultaneously.
 Thirdly it is devised for multivariate time series which is more practical in real data application. 
 Fourthly, it is designed for online detection (Phase II), which is central for real time surveillance of stream data. For more information please refer to O. Okhrin and Y.F. Xu (2017).
 
-# Keywords: 
+## 1 Keywords: 
 Change point model • Energy test • Multivariate statistical process monitoring • Phase II statistical process control.
 
-# Install and Usage:
-## Install
+## 2 Install and Usage:
+### 2.1 Install
 ~~~R
 install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
 ~~~
-## Example and Usage
+### 2.2 Example and Usage
 Please refer to https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
 
-# Papers and Package
-## A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model
+## 3 Papers and Package
+### 3.1 A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model
 - DOI: https://doi.org/10.35566/isdsa2019c2
 - https://isdsa.org/isdsapress/books/isdsa2019/isdsa2019c2
 - PDF: 
 
-## Reference Manual: An R Package 'EnergyOnlineCPM'
+### 3.2 Reference Manual: An R Package 'EnergyOnlineCPM'
 https://www.researchgate.net/publication/313838019_Reference_Manual_An_R_Package_'EnergyOnlineCPM'
 
-## Package 'EnergyOnlineCPM' in CRAN
+### 3.3 Package 'EnergyOnlineCPM' in CRAN
 https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
