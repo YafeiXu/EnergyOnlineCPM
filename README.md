@@ -23,11 +23,10 @@ Please refer to https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.ht
 ## 3. Papers and Package
 ### 3.1 A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model
 - DOI: https://doi.org/10.35566/isdsa2019c2
-- https://isdsa.org/isdsapress/books/isdsa2019/isdsa2019c2
-- PDF: 
+- PDF@googledrive: https://drive.google.com/file/d/1ahkLP0672MYnyaqiNKP9glw21a4axvGH/view?usp=sharing
 
 ### 3.2 Reference Manual: An R Package 'EnergyOnlineCPM'
-https://www.researchgate.net/publication/313838019_Reference_Manual_An_R_Package_'EnergyOnlineCPM'
-
-### 3.3 Package 'EnergyOnlineCPM' in CRAN
+- PDF@googledrive https://drive.google.com/file/d/15qUGOFjvkrZaC1QA_h3j3lcuepafLxyF/view?usp=sharing
+  
+### 3.3 Introduction of Package 'EnergyOnlineCPM' in CRAN
 https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html
