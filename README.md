@@ -1,5 +1,5 @@
  
-# EnergyOnlineCPM: Distribution Free Multivariate Control Chart Based on Energy Test
+# EnergyOnlineCPM: An R Package for Non-Parametric Multivariate Statistical Process Control Chart
 Provides a function for distribution free control chart based on the change point model, for multivariate statistical process control. 
 The main constituent of the chart is the energy test that focuses on the discrepancy between empirical characteristic functions of two random vectors. 
 This new control chart highlights in three aspects. 
